@@ -1,3 +1,2 @@
 # cde_common
-
-This library contains common, non-UI classes for the Chrome Dev Editor (CDE).
+这个库包含常见的非UI类的浏览器开发编辑器（CDE）.
