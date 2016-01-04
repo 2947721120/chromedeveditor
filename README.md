@@ -19,12 +19,14 @@ You can [learn more](doc/GettingStarted.md)有关CDE工作流，包括Chrome应�
 
 ### Google I/O 2014
 
-Check out our [I/O talk](https://www.youtube.com/watch?v=NNLnTz6yIc4) about building apps on the Chrome platform and how we built CDE. You can also try out the [I/O codelabs](http://io2014codelabs.appspot.com/static/index.html) that use the Chrome Dev Editor.
+看看我们的 [I/O talk](https://www.youtube.com/watch?v=NNLnTz6yIc4) 谈构建应用程序在Chrome平台以及我们如何建立,。你也可以尝试的 [I/O codelabs](http://io2014codelabs.appspot.com/static/index.html) 使用Chrome Dev编辑。
 
-### FAQ
-
-Read our [FAQ](doc/FAQ.md) to find out about CDE features, what’s coming up and more! 
+### 常问问题 
+请阅读我们的常见问题，
+请阅读我们的常见问题 [FAQ](doc/FAQ.md) 以了解CDE的特点，了解更多！
 
 ### 发送反馈
 
 我们很想听到你的消息！加入我们的 [G+ community](http://bit.ly/cdeusers) or [Mailing List](https://groups.google.com/a/chromium.org/forum/?hl=en#!forum/chromium-cde)讨论您的经验与CDE。如果你遇到一个错误，或者想看看在CDE的一项新功能，把它作为一个问题，这 [format](https://github.com/dart-lang/chromedeveditor/wiki/Reporting-a-problem) on our [GitHub issue tracker](https://github.com/dart-lang/spark/issues/new).
+
+汉化后部分截图
