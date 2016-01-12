@@ -30,3 +30,5 @@ You can [learn more](doc/GettingStarted.md)有关CDE工作流，包括Chrome应�
 我们很想听到你的消息！加入我们的 [G+ community](http://bit.ly/cdeusers) or [Mailing List](https://groups.google.com/a/chromium.org/forum/?hl=en#!forum/chromium-cde)讨论您的经验与CDE。如果你遇到一个错误，或者想看看在CDE的一项新功能，把它作为一个问题，这 [format](https://github.com/dart-lang/chromedeveditor/wiki/Reporting-a-problem) on our [GitHub issue tracker](https://github.com/dart-lang/spark/issues/new).
 
 汉化后部分截图
+<img src="http://i11.tietuku.com/dfe8ec56fb3d8613.png width="220" height="0">
+[url=http://tietuku.com/dfe8ec56fb3d8613][img]http://i11.tietuku.com/dfe8ec56fb3d8613.png[/img][/url]
