@@ -1,5 +1,14 @@
 ## 谷歌编辑器插件- 开发者预览
 
+<!--个人使用的一些感受非官方介绍内容开始-->
+1: github上项目的克隆,修改,推送,不需要使用任何命令行,比较方便!
+2: 高分子设计如果会操作,也是非常强大的功能
+[其他截图点击](https://github.com/2947721120/chromedeveditor/issues/1)
+中文安装使用方法--
+首先要翻墙[安装](https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg?utm_source=chrome-app-launcher-info-dialog) 不会翻墙可使用[插件](http://pan.baidu.com/s/1beCXBK)360极速!!!  非360安全浏览器!!!
+
+安装成功后,找到插件位置,更换根目录下
+
 Chrome浏览器开发编辑器（CDE）是一个开发工具，在Chrome平台上构建应用程序- [Chrome Apps](https://developer.chrome.com/apps/about_apps) 在JavaScript和Web应用程序，或 [Dart](https://www.dartlang.org/). CDE是建成一个Chrome应用程序写在飞镖和使用聚合物。CDE运行在Windows，Mac，Linux，和Chrome OS！CDE支持Git， [Polymer](http://www.polymer-project.org/), 和移动发展.
 
 <a href="#">
